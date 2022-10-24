@@ -14,7 +14,7 @@ Denmark
 
 Finland
 
-France*
+France
 
 Germany
 
