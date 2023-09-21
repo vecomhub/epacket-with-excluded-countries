@@ -1,71 +1,59 @@
 # Epacket (With Excluded Countries)
 
-Australia
+India
 
-Austria
+Nepal
 
-Belgium
+Myanmar (Burma)
 
-Brazil ???
+Guam
 
-Canada
+Lebanon
 
-Denmark
+Afghanistan
 
-Finland
+Malaysia
 
-France
+US Virgin Islands
 
-Germany
+Mexico
 
-Greece
+Bhutan
 
-Hong Kong ???
+Pakistan
 
-Hungary
+Saudi Arabia
 
-Ireland ???
+Central African Republic
 
-Israel
+Somalia
 
-Italy
-
-Japan
-
-Korea
-
-Luxembourg ???
-
-Mexico ???
-
-Netherlands
-
-New Zealand
-
-Norway
-
-Poland
-
-Portugal
-
-Singapore ???
-
-Spain
-
-Sweden
-
-Switzerland ???
+South Africa
 
 Turkey
 
-United Kingdom
+Israel
 
-United States
+Indonesia
 
-+
+Philippines
 
-Czech Republic
+Kuwait
 
-Argentina
+Colombia
+
+Bangladesh
+
+Sri Lanka
+
+Morocco
+
+Egypt
 
 Qatar
+
+Tunisia
+
+Mauritius
+
+Algeria
